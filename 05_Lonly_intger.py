@@ -7,3 +7,5 @@ def lonelyinteger(a:list):
             return i
 
 print(lonelyinteger([1,2,3,4,3,2,1,4,6]))     
+
+
